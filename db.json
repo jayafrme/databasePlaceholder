@@ -1,0 +1,16 @@
+{
+  "fooditems": [
+    {
+      "item_id": 1,
+      "item_name": "idly"
+    },
+    {
+      "item_id": 2,
+      "item_name": "vada"
+    },
+    {
+      "item_id": 3,
+      "item_name": "dosa"
+    }
+  ],
+}
